@@ -1,0 +1,14 @@
+.container-fluid{
+    background-color: #000000;
+    border-radius: 4px;
+    padding-bottom: 5%;
+    box-shadow: 3px 3px 3px 3px #3E78B2;
+    font-family: 'Inter';
+    margin-bottom: 5%;
+    font-size: 20px;
+  }
+  hr{
+      width: 70%;
+      height: 4px;
+      background-color: #000000;
+  } 

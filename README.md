@@ -7,7 +7,7 @@ THis website displays quotes, alows users to add their own quotes and upvote or 
 
 Dickson Kibuchi Muchai
 
-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
+
 # Description
 
 1. Users can create a new quote.
